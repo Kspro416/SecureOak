@@ -1,7 +1,6 @@
-# 🌳 SecureOak
+# 🌳 SecureOak(releasing On 12th May)
 
-**SecureOak** is a modern, user-friendly desktop encryption tool built with PySide6 and powered by the Fernet symmetric encryption from the `cryptography` library. With a sleek dark-themed interface, SecureOak lets users easily encrypt and decrypt messages in a secure and streamlined workflow.
-
+**SecureOak** is a modern, user-friendly desktop encryption tool built with PySide6 and powered by the Fernet symmetric encryption from the `cryptography` library. With a sleek dark-themed interface, SecureOak lets users easily encrypt and decrypt messages in a secure and streamlined workflow. This Epic Is sure;y going to come on 12th May
 ---
 
 ## 📑 Table of Contents
