@@ -27,7 +27,10 @@ SecureOak provides a simple yet effective GUI for encrypting and decrypting text
 - 🧼 Read-only output sections for secure display
 - 📦 Cross-platform support (Windows, macOS, Linux)
 
----
+## 🙏🙏 Contributors:
+
+- Khush Shah(https://secureoakatkspro416.hashnode.dev/secureoakreleasing-on-12th-may-at-exactly-1200-pm-ist)
+- Vedant Gandhi(github.com/VeduStorm)
 
 ## 🛠 Installation
 
@@ -40,3 +43,5 @@ SecureOak provides a simple yet effective GUI for encrypting and decrypting text
 
 ```bash
 pip install -r requirements.txt
+pip install PySide6
+pip install cryptography
